@@ -2,29 +2,33 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
----
-layout:false
-## スライド１
-### スライド１
-２ページ目
+# ダジャレを分析した件について
+ちわP
 
-* コードを書く
-```
-// コードを書く
-abc
-```
 ---
-## スライド２
-### スライド２
-３ページ目
-.left-column[
-* 左に書く
-]
-.right-column[
-* 右に書く
-]
+
+layout:false
+## 自己紹介
+<dl>
+  <dt>名前</dt>
+  <dd>ちわP</dd>
+  <dt>所属</dt>
+  <dd>346プロダクション</dd>
+  <dt>担当アイドル</dt>
+  <dd>高垣楓</dd>
+  <dt>副業</dt>
+  <dd>自然言語処理</dd>
+  <dt>得意言語</dt>
+  <dd>python</dd>
+<dl>
+  
+![kaede](https://image02.seesaawiki.jp/i/g/imascg/a1734c2bb0c60bd9-s.jpg)
+
+---
+
+## ダジャレ創作を手伝いたい
+
+ダジャレを分析
 
 ---
 ## スライド３
